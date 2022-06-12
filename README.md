@@ -6,7 +6,7 @@ I'm a generalist software developer interested in full stack app architectures.
 
 I’m currently working on a relational/reactive JS state management system.  But I also mess about with functional programming, ops and deployment, application architecture and whatever else is interesting me technically.
 
-Check out this recent post on Streams being an all round better abstraction than React's Hooks: https://james-forbes.com/#!/posts/hooks-and-streams
+Check out this post on Streams being an all round better abstraction than React's Hooks: https://james-forbes.com/#!/posts/hooks-and-streams
 
 I help run [Harth Systems](https://harth.io/) where I work on [Odin](https://harth.io/odin/) and a few other software projects.  I also occasionally consult on a short term basis.
 
