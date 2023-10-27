@@ -8,7 +8,7 @@ I'm currently working on a query language for UI state management, and trying to
 
 Recently I [rewrote S.js as a clean room implementation](https://github.com/JAForbes/S) to try to understand it better.  
 
-I help run [Harth Systems](https://harth.io/) where I work on [Odin](https://harth.io/odin/) and a few other software projects.  I'm also currently contracting at an Australian Bank which is lots of fun and very interesting.
+I help run [Harth Systems](https://harth.io/).
 
 I used to participate in [game](https://canyon.itch.io/space-to-proceed) [jams](https://canyon.itch.io/provider) but I haven't done that for a long time, still I find game jams have been great for learning how to scope and finish projects, so I recommend it!
 
