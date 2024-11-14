@@ -18,7 +18,7 @@ I used to participate in [game](https://canyon.itch.io/space-to-proceed) [jams](
 
 I'm always up for a chat, so hit me up and ask me anything!
 
-If you like, you can follow me on [cohost](https://cohost.org/jmsfbs-code).  I also infrequently update my website https://james-forbes.com.
+If you like, you can follow my work on my website https://james-forbes.com.
 
 - 📖 Check out this post on Streams being an all round better abstraction than React's Hooks: https://james-forbes.com/#!/posts/hooks-and-streams
 - 🔍 Check out my [clean room implementation of S.js](https://github.com/JAForbes/S) - a research project to understand it better.
