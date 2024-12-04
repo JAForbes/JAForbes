@@ -21,7 +21,7 @@ I'm always up for a chat, so hit me up and ask me anything!
 If you like, you can follow my work on my website https://james-forbes.com.
 
 - 📖 Using DuckDB to parse and process directories of metadata and JSON into well formatted mdx files: https://james-forbes.com/posts/cohost-export
-- 📖 On Streams being an all round better abstraction than React's Hooks: https://james-forbes.com/#!/posts/hooks-and-streams
+- 📖 On Streams being an all round better abstraction than React's Hooks: https://james-forbes.com/posts/hooks-and-streams
 - 🔍 Check out my [clean room implementation of S.js](https://github.com/JAForbes/S) - a research project to understand it better.
 - 🧝 If you have questions relating to mithril.js / web app development hit me up on the https://mithril.zulipchat.com/
 
